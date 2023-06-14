@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Formation
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,40 +10,40 @@ section:
   # hideTitle: true
 
 degrees:
-  - name: Master in Computer Science
+  - name: Master Recherche en Informatique
     icon: fa-microscope
     timeframe: 2002-2006
     institution:
-      name: Paris VIII University
+      name: Université Paris VIII
       url: "https://www.univ-paris8.fr/"
     grade: #(optional)
-      scale: French grades
+      scale: Notes
       achieved: 17
-      outOf: 20 (Highest honors)
+      outOf: 20 (mention très bien)
     takenCourses: #(optional)
       # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
       showGrades: false
       collapseAfter: 3
       courses:
-        - name: Combinatorial Optimization
-        - name: Artifical Intelligence
-        - name: Networking & Distributed computation
-        - name: Data Structures & Algorithms
-        - name: Operating Systems
+        - name: Optimisation combinatoire
+        - name: Intelligence artificielle
+        - name: Réseaux & Calcul distribué
+        - name: Structures de données & Algorithmes
+        - name: Systèmes d'exploitation
     publications: #(optional)
-      - title: Symetrical dominos tilings
+      - title: Pavages symétriques à base de dominos
         url: "files/DEA - Mémoire.pdf"
     extracurricularActivities: #(optional)
-      - Educational supervisor in practical sessions
-      - Students delegate
-      - Japanese learning
-  - name: Bachelor in Electronics and Industrial Computing
+      - Responsable de travaux pratiques
+      - Représentant étudiant
+      - Organisation de cours de japonais
+  - name: DUT Génie électronique et informatique industrielle
     icon: fa-microscope
     timeframe: 2000-2002
     institution:
-      name: Cergy-Paris University
+      name: Université Cergy-Paris
       url: "https://www.cyu.fr/"
     grade: #(optional)
-      scale: Ranking
-      achieved: 2nd
-      outOf: 70 (High honors)
+      scale: Classement
+      achieved: 2e
+      outOf: 70
