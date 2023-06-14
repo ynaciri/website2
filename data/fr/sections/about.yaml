@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Blockchain Architect
+designation: Architecte Blockchain
 # your company information
 company:
   name: YZ Network
   url: "https://www.yz-network.com"
 
 # a summary about you
-summary: "As a skilled web and blockchain architect with extensive experience in designing and implementing complex solutions, my objective is to leverage my expertise in distributed systems and blockchain technology to help organizations in improving their business operations.<br/>I am committed to delivering innovative and cost reducing solutions according to my clients constraints and budget in order to drive growth and increase efficiency, while ensuring security, data integrity and quality practices requirements are met.<br/>My goal is to contribute to the success of organizations that value innovation and excellence."
+summary: "En tant qu'architecte web et blockchain avec une vaste expérience dans la conception et l'implémentation de solutions complexes, mon objectif est de capitaliser sur cette expertise en systèmes distribués et dans les technologies blockchain pour aider les organisations à améliorer leurs opérations.<br/> Je m'engage à livrer des solutions innovantes à moindre coût en accord avec les contraintes et budgets de mes clients afin de stimuler leur développement et d'accroître leur efficacité, tout en m'assurant que les bonnes pratiques de sécurité, d'intégrité des données et de qualités soient respectées.<br/> Mon objectif est de contribuer au succès d'organisations valorisant l'innovation et l'excellence."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,8 +35,8 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-  - title: "My Resume"
-    url: "files/Resume - Youssouf Naciri - Web & Blockchain Architect - EN.pdf"
+  - title: "Mon CV"
+    url: "files/CV Youssouf Naciri - Architecte Web & Blockchain - FR"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
@@ -48,7 +48,7 @@ badges:
     color: pink
 
   - type: soft-skill-indicator
-    name: Method
+    name: Méthode
     percentage: 100
     color: green
 
@@ -58,17 +58,17 @@ badges:
     color: orange
 
   - type: soft-skill-indicator
-    name: Teamwork
+    name: Travail d'équipe
     percentage: 100
     color: yellow
 
   - type: soft-skill-indicator
-    name: Open-mind
+    name: Ouverture
     percentage: 100
     color: sky
 
   - type: soft-skill-indicator
-    name: Efficiency
+    name: Efficacité
     percentage: 100
     color: blue
 # you can also provide color code instead of the color name
