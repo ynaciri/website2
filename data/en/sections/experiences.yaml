@@ -6,59 +6,159 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: YZ Network
+      url: "https://www.yz-network.com"
+      location: Paris
+      overview: Blockchain architect & cypto-assets consultant
+    positions:
+      - designation: Web3 advanced tokenization platform
+        start: Nov 2021
+        responsibilities:
+          - YZ aims to provide full transparency to all parties involved in web3 projects by providing automated charged tokens solutions, allowing to unlock liquidity while enabling early stage token economies to be created, helping projects to focus on the core of their business.
+        environment: React, Redux, Bootstrap, NodeJS, GraphQL, MongoDB, Ethereum, Metamask, Solidity, geth, Remix IDE, Docker, Github actions, AWS, Infura, Quiknode
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+      - designation: Real estate investments tokenization platform
+        start: Nov 2017
+        end: Dec 2020
+        responsibilities:
+          - Had to cover for the lack of tools by developing in-house tools such as a debugger, gas profiler and deployment automation.
+        environment: React, Redux, NodeJS, Express, GraphQL, JSON Web Tokens, MongoDB, Redis, Ethereum, Solidity, geth, Remix IDE, Docker, AWS
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: TotalEnergies Digital Factory
+      location: Paris
+      overview: Assistant Techlead & JEE/Angular Fullstack developer
+    positions:
+      - designation: Collaborative and configurable platform for Drilling Statement of Requirements
+        start: May 2021
+        end: Mar 2023
+        responsibilities:
+          - Worked on a critical application for drilling projects, based on existing business practices, from day one to the final product delivery, using a unique and flexible data model enabling the team to use runtime form generation.
+          - Trained juniors on the team, gave recommendations during feature definition meetings with the tech lead and troubleshot several issues on data integrity, atomicity, performance and quality.
+          - Automated end user and load testing and added real-time capability to improve user adoption.
+        environment: Azure, Github, Tomcat, Spring, Ehcache, OpenAPI, Angular, Gatling, Sonarqube, JUnit, Testcafe, Gherkin, Terraform, Terragrunt, docx-stamper
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: Markeyz
+      location: Ivry sur Seine
+      overview: Ethereum Blockchain R&D Engineer
+    positions:
+      - designation: Automated Arbitrage Trading system
+        start: Dec 2020
+        end: Apr 2021
+        responsibilities:
+          - Extensive research on Decentralized Exchanges such as Uniswap, Balancer, Curve to fully understand the Automated Market Making concept and existing solutions. Reverse-engineered smart-contracts source code to extract trading formulas and theorized formulas and requirements to optimize profitability.
+          - Managed in house nodes hosting and optimization to reduce downtimes to zero, while developing a distributed architecture running trading bots on several DEX at the same time, executing trades whenever an opportunity appeared.
+          - Optimized trades execution rate by integrating flash loans and gas tokens.
+          - Handled recruitment and training of new members for the team.
+        environment: Typescript, NodeJS, Express, MongoDB, Docker, AWS, Ethereum, geth, web3, Solidity, Remix IDE
+
+  - company:
+      name: Foodles
+      url: "https://www.foodles.co"
+      location: Clichy
+      overview: Web Architect & Python/AngularJS Fullstack developer & DevOps
+    positions:
+      - designation: Automated meals dispensers
+        start: Sep 2016
+        end: Jun 2018
+        responsibilities:
+          - Designed a new back-office & interfaces to replace legacy no code tools and integrate every business process in a single system, from prototyping to production deployment, defining the scope with the direction team and operatives.
+          - Adapted the solution while handling testing, cloud deployment and automation, following the startup evolution.
+        environment: AWS, Docker, Python, Django, AngularJS, PostgreSQL, Apache HAProxy, Elasticsearch, Kibana
+
+  - company:
+      name: Natixis / BPCE
+      url: "https://groupebpce.com"
+      location: Paris
+      overview: JEE API Architect
+    positions:
+      - designation: BIG - MVPs realization in a Digital Factory
+        start: Mar 2016
+        end: Jun 2016
+        responsibilities:
+          - Helped product owners to design the MVP on solutions choices.
+          - Designed and developed the solution as a Single Page Application.
+          - Collaborated with other MVP teams to develop common practices at the factory.
+        environment: JEE, JBoss, JAX-RS, EJB, JPA, Birt, JasperReports, Oracle, Maven, Atlassian (Jira, Confluence, Bitbucket), Jenkins, AngularJS, NodeJS
+
+  - company:
+      name: IFP School
+      url: "https://www.ifptraining.fr"
+      location: Rueil Malmaison
+      overview: AngularJS/JEE Architect & Fullstack Developer
+    positions:
+      - designation: CAS - Decentralized skills assessment system
+        start: Aug 2015
+        end: Nov 2015
+        responsibilities:
+          - Designed and developed a decentralized web solution to replace legacy practices and improve the organization's efficiency in one month.
+          - Ensured compatibility with the old system through worksheets import/export as a fallback.
+          - Automated build and deployments.
+        environment: AngularJS, JEE, JAX-RS, Apache POI, Spring, JPA, Birt, MySQL, Tomcat, Maven, Docker, Git, Nginx
+
+  - company:
+      name: Gatewatcher
+      url: "https://www.gatewatcher.com/"
+      location: Paris
+      overview: HTML5 Developer & Devops
+    positions:
+      - designation: Advanced cyber threats detection system
+        start: Jan 2015
+        end: Aug 2015
+        responsibilities:
+          - Developed a real-time administrator interface for the appliances.
+          - Gave recommendations on the requirements to move from R&D to production while keeping the appliances safe with in-house package registries for debian and libraries updates, allowing the team to pick which updates to push or hold.
+        environment: Docker, Linux, MongoDB, Redis, Websockets, Perl, Git
+
+  - company:
+      name: French Central Bank
+      url: "https://www.banque-france.fr"
+      location: Paris
+      overview: Senior JEE developer
+    positions:
+      - designation: GISEL - Securities database usable as loans collateral
+        start: Nov 2013
+        end: Dec 2014
+        responsibilities:
+          - Developed and tested several modules with the design team.
+          - Trained the maintenance team and collaborated with them on some feature developments.
+        environment: JSF 2, JPA, Spring, Hibernate, JUnit, Maven, JBoss 6, Oracle, Bamboo, Eclipse
+
+      - designation: TELSAT - Treasury bonds auction system
+        start: Apr 2010
+        end: Nov 2013
+        responsibilities:
+          - Developed the new application on JEE ecosystem from the start until it reached production.
+          - Reverse engineered the legacy application to complete the features specifications.
+          - Automated user & load testing to be able to profile performance and optimize the application for traders.
+          - Debugged deployment tools with the infra teams.
+        environment: JSF, Spring, Hibernate, JUnit, Maven, Tomcat, Oracle, Bamboo, Eclipse, Selenium
+
+  - company:
+      name: MSH - Paris Nord
+      url: "https://www.mshparisnord.fr"
+      location: La Plaine Saint-Denis
+      overview: Assistant CIO
+    positions:
+      - designation: IT Infrastructure audit & enhancement
+        start: Jan 2007
+        end: Apr 2008
+        responsibilities:
+          - Mapped and reverse engineered network and services in order to optimize them when needed, automated backups.
+          - Added new services to help researchers gain in efficiency (Active Directory, LDAP, websites, FTP, Windows roaming profiles).
+          - Deployed an automated computer inventory system on every computer of the lab (OCS inventory).
+        environment: Perl, Java, Apache httpd, OpenLDAP, Samba, DNS, FTP, Mail, FreeBSD, Windows, Cisco
+
+      - designation: Collaborative software customization & deployment
+        start: Sep 2006
+        end: Dec 2006
+        responsibilities:
+          - Single-handedly deployed and tuned an entreprise collaboration system (eGroupWare).
+          - Trained researchers on the system usage.
+          - Identified redundant administrative processes and developed custom modules to automate them.
