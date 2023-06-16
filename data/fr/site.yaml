@@ -2,13 +2,13 @@
 copyright: © 2020 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
-disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
-You can modify or distribute the theme without requiring any permission from the theme author.
-However, the theme author does not provide any warranty or takes any liability for any issue with the theme.<br/>
-Background image credits : <a href='https://unsplash.com/fr/@maminjl'>Mohammad Amin</a>, free of use under the Unsplash licence."
+disclaimer: "Ce thème utilise la licence MIT. Il est utilisable pour tout usage non-commercial, commercial et personnel.
+Vous pouvez modifier ou distribuer le thème sans nécessiter l'autorisation de l'auteur.
+En contrepartie, l'auteur du thème ne fourni aucune garantie et ne saurait être responsable de problèmes engendrés par celui-ci.<br/>
+Image d'arrière-plan : <a href='https://unsplash.com/fr/@maminjl'>Mohammad Amin</a>, utilisation libre selon la licence Unsplash."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Youssouf Naciri's personal website.
+description: Site personnel de Youssouf Naciri.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -25,6 +25,6 @@ description: Youssouf Naciri's personal website.
 openGraph:
   title: Youssouf Naciri
   type: website
-  description: Youssouf Naciri's personal website.
+  description: Site personnel de Youssouf Naciri.
   image: images/author/avatar.jpeg
   url: https://youssouf.naciri.fr
