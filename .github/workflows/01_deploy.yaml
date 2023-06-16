@@ -16,15 +16,22 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Install hugo
+      - name: Setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.113.0"
           extended: true
 
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
       - name: Build
         shell: bash
-        run: hugo --gc --minify
+        run: |
+          npm ci
+          hugo --gc --minify
 
       - name: Setup AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
