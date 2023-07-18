@@ -11,7 +11,7 @@ section:
 
 degrees:
   - name: Master Recherche en Informatique
-    icon: fa-microscope
+    icon: fa-graduation-cap
     timeframe: 2002-2006
     institution:
       name: Université Paris VIII
@@ -38,7 +38,7 @@ degrees:
       - Représentant étudiant
       - Organisation de cours de japonais
   - name: DUT Génie électronique et informatique industrielle
-    icon: fa-microscope
+    icon: fa-graduation-cap
     timeframe: 2000-2002
     institution:
       name: Université Cergy-Paris
