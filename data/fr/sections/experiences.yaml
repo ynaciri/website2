@@ -14,29 +14,29 @@ experiences:
       name: YZ Network
       url: "https://www.yz-network.com"
       location: Paris
-      overview: Consultant Blockchain et crypto-actifs
+      overview: CTO
     positions:
-      - designation: Plateforme avancée de tokenization Web3
+      - designation: Charged tokens – Solution de levées de fonds sur blockchain
         start: Novembre 2021
         # end: Décembre 2020
         responsibilities:
-          - Conception et réalisation d'architectures pour applications web utilisant la blockchain Ethereum
-          - Développement des outils pour déployer, débugger, profiler et auditer les smart-contracts
-          - Etude et développement de stratégies de trading, spécifiquement sur les crypto-monnaies
-          - Benchmarking des stratégies existantes fournies notamment par d'autres groupes de traders
-          - Implémentation et mise en production des robots de trading
+          - Concevoir l’architecture du système
+          - Mettre en place l’infrastructure d’hébergement
+          - Gérer les relations avec les prestataires
+          - Optimiser les coûts de fonctionnement
+          - Développer l’application
+          - Automatiser les déploiements
+          - Participer aux salons et avant-ventes
         environment: React, Redux, Bootstrap, NodeJS, GraphQL, MongoDB, Ethereum, Metamask, Solidity, geth, Remix IDE, Docker, Github actions, AWS, Infura, Quiknode
 
-      - designation: Plateforme d'investissement dans l'immobilier locatif sur blockchain
+      - designation: Locapriété – Rendre accessible l’achat et l’investissement immobilier
         start: Novembre 2017
         end: Décembre 2020
         responsibilities:
-          - Ecriture de smart-contracts pour la blockchain Ethereum
-          - Tests unitaires, tests de charges, audits de sécurité sur les smart-contracts
-          - Développement d'outillage pour débugger, profiler la consommation en gas et auditer les contrats
-          - Conception d'une architecture web distribuée pour servir d'interface avec la blockchain
-          - Mise en place d'une interface web temps-réel pour les utilisateurs et gestionnaires
-          - Administration d'un noeud Ethereum pour historiser les données et événements des contrats
+          - Concevoir l’architecture du système
+          - Mettre en place l’infrastructure d’hébergement
+          - Développer l’application
+          - Automatiser les déploiements
         environment: React, Redux, NodeJS, Express, GraphQL, JSON Web Tokens, MongoDB, Redis, Ethereum, Solidity, geth, Remix IDE, Docker, AWS
 
   - company:
@@ -45,22 +45,19 @@ experiences:
       location: Paris
       overview: Assistant Techlead & Développeur fullstack JEE/Angular
     positions:
-      - designation: Plateforme collaborative configurable pour l'établissement de cahiers des charges pour les forages
+      - designation: Digital Well SoR – Plateforme collaborative pour les projets de forage
         start: Mai 2021
         end: Mars 2023
         responsibilities:
-          - Participation à la définition du périmètre et recommandations sur les fonctionnalités
-          - Conception et développement d'une architecture logicielle configurable
-          - Encadrement et formation de juniors en mob/pair programming
-          - Intégration d'un sytème de notifications temps réel (websockets)
-          - Ajout d'un système d'import/export de données au format Excel
-          - Profiling, refactoring et optimisations générales
-          - Développement de tests utilisateur automatisés et de tests de charge
-          - Mise en place d'un cache L2 et d'un cache JSR107
-          - Migration SpringBoot 2.3.3 vers 2.7.9
-          - Fork et maintenance de la librairie opensource docx-stamper
-          - Présentations diverses à la communauté des développeurs de la TDF
-          - Transfert du projet à l'équipe TMA de Tata Consultancy Services
+          - Concevoir une application configurable capable de s’adapter à la diversité des projets
+          - Proposer des solutions réalisables pour répondre aux différents besoins
+          - Encadrer les développeurs/DevOps juniors et leur fournir une assistance
+          - Mettre en place des pratiques de qualité
+          - Optimiser le code de l’application
+          - Gérer les sujets complexes (montées de version, migrations de données, incidents)
+          - Présenter les innovations à la communauté d’ingénieurs de la TDF
+          - Participer au développement de l’application
+          - Former l’équipe indienne de maintenance
         environment: Azure, Github, Tomcat, Spring, Ehcache, OpenAPI, Angular, Gatling, Sonarqube, JUnit, Testcafe, Gherkin, Terraform, Terragrunt, docx-stamper
 
   - company:
@@ -72,13 +69,12 @@ experiences:
         start: Décembre 2020
         end: Avril 2021
         responsibilities:
-          - Acquisition automatisée de market data sur la blockchain ethereum
-          - Recherche et développement de stratégies de trading sur les marchés décentralisés (DeFi)
-          - Implémentation et mise en production des robots de trading
-          - Mise en place de l'infrastructure sur AWS et déploiements
-          - Réalisation de smart-contracts pour assurer l'atomicité d'exécution des ordres
-          - Optimisation des performances des robots et de leur rentabilité
-          - Recrutement et formation de nouveaux membres pour l'équipe R&D
+          - Analyser les plateformes de DeFI existantes
+          - Concevoir une architecture modulaire facilitant l’intégration des différents marchés
+          - Prototyper et tester la solution
+          - Préparer le prototype pour la mise en production
+          - Recruter et former les nouveaux membres de l’équipe
+          - Optimiser les performances du robot pour concurrencer les autres acteurs
         environment: Typescript, NodeJS, Express, MongoDB, Docker, AWS, Ethereum, geth, web3, Solidity, Remix IDE
 
   - company:
@@ -87,31 +83,18 @@ experiences:
       location: Clichy
       overview: Architecte & Développeur web fullstack Python/AngularJS & DevOps
     positions:
-      - designation: Alternative aux restaurants d'entreprises avec des menus frais livrés chaque jour dans des frigos à la technologie brevetée
+      - designation: Passer du no-code à un SI de gestion de l’ensemble des activités (front & backoffice)
         start: Septembre 2016
         end: Juin 2018
         responsibilities:
-          - Conception et développement du nouveau back-office en suivant l'évolution du métier
-          - Migration des données depuis l'API en place
-          - Maintien de l'activité pendant la phase de double-run
-          - Déployement de la solution sur le cloud et gestion des infrastructures de test et production sur AWS
-          - Accompagnement du personnel dans l'utilisation du nouveau back-office
+          - Formaliser les processus métier
+          - Concevoir l’architecture technique et les APIs nécessaires
+          - Mettre en place l’infrastructure sur le cloud AWS
+          - Développer l’application
+          - Migrer les données existantes vers le nouveau système
+          - Automatiser les tests et déploiements
+          - Adapter le système aux évolutions de l’activité
         environment: AWS, Docker, Python, Django, AngularJS, PostgreSQL, Apache HAProxy, Elasticsearch, Kibana
-
-  - company:
-      name: Natixis / Banque Populaire
-      url: "https://groupebpce.com"
-      location: Paris
-      overview: Référent technique JEE
-    positions:
-      - designation: BIG - Réalisation de MVPs dans un mode startup agile
-        start: Mars 2016
-        end: Juin 2016
-        responsibilities:
-          - Assistance aux product owners dans la conception des MVP
-          - Conception, planification et développement les webservices REST (JAX-RS)
-          - Echange avec les autres projets de MVP pour mettre en place des pratiques communes
-        environment: JEE, JBoss, JAX-RS, EJB, JPA, Birt, JasperReports, Oracle, Maven, Suite Atlassian (Jira, Confluence, Bitbucket), Jenkins, AngularJS, NodeJS
 
   - company:
       name: Institut Français du Pétrole
@@ -119,30 +102,16 @@ experiences:
       location: Rueil Malmaison
       overview: Architecte & Développeur web fullstack JEE
     positions:
-      - designation: CAS - Système d'évaluation des compétences décentralisé
+      - designation: Competence Assessment system – Plateforme d’évaluation de compétences
         start: Août 2015
         end: Novembre 2015
         responsibilities:
-          - Conception d'une solution web JEE/AngularJS décentralisée en remplacement de l'outil existant
-          - Maintenance de la compatibilité avec l'existant par le biais de l'import Excel
-          - Définition des maquettes de documents générés
-          - Automatisation des déploiements en production
+          - Structurer les données d’évaluations
+          - Concevoir une architecture décentralisée pour l’application
+          - Développer l’application
+          - Encadrer un junior sur le développement du frontend
+          - Former le personnel de l’IFP sur la maintenance et les déploiements
         environment: AngularJS, JEE, JAX-RS, Apache POI, Spring, JPA, Birt, MySQL, Tomcat, Maven, Docker, Git, Nginx
-
-  - company:
-      name: Gatewatcher
-      url: "https://www.gatewatcher.com/"
-      location: Paris
-      overview: Développeur web HTML5 & Devops
-    positions:
-      - designation: Système de détection avancée d'intrusions
-        start: Janvier 2015
-        end: Août 2015
-        responsibilities:
-          - Développement de l'interface d'administration des appliances
-          - Assistance au passage de la phase R&D à la mise en production
-          - Fourniture des solutions techniques de déploiement et de mise à jour (docker, apt)
-        environment: Docker, Linux, MongoDB, Redis, Websockets, Perl, Git
 
   - company:
       name: Banque de France
@@ -150,24 +119,23 @@ experiences:
       location: Paris
       overview: Développeur JEE senior
     positions:
-      - designation: GISEL - référentiel de titres mobilisables en garantie de prêts
+      - designation: GISEL – Référentiel de titres
         start: Novembre 2013
         end: Décembre 2014
         responsibilities:
-          - Accompagnement des concepteurs et référents dans la définition des modules applicatifs
-          - Développement et test des modules d'interface (front/back) et des batch
-          - Formation et accompagnement de l'équipe de maintenance
+          - Accompagner les concepteurs dans la définition des modules applicatifs
+          - Développer les modules d’interface et les traitements batch
+          - Transférer les compétences à l’équipe de maintenance
         environment: JSF 2, JPA, Spring, Hibernate, JUnit, Maven, JBoss 6, Oracle, Bamboo, Eclipse
 
-      - designation: TELSAT - vente de la dette de l'Etat français sur les marchés financiers
+      - designation: RESAT – Application d’adjudication de la dette française
         start: Avril 2010
         end: Novembre 2013
         responsibilities:
-          - Développement et maintenance de la nouvelle application sur les technologies JEE
-          - Rétro-spécification via l'analyse de l'application existante
-          - Participation aux comités de suivi technique et accompagnement des déploiements
-          - Mise en place de tests de charge automatisés
-          - Analyse et optimisation des performances de l'application
+          - Rétro-spécifier l’application existante
+          - Développer et maintenir la nouvelle version
+          - Mettre en place de tests de charge
+          - Analyser et optimiser les performances
         environment: JSF, Spring, Hibernate, JUnit, Maven, Tomcat, Oracle, Bamboo, Eclipse, Selenium
 
   - company:
@@ -176,22 +144,21 @@ experiences:
       location: La Plaine Saint-Denis
       overview: DSI Adjoint
     positions:
-      - designation: Audit & optimisation des systèmes et réseaux
+      - designation: Rationalisation du système informatique
         start: Janvier 2007
         end: Avril 2008
         responsibilities:
-          - Cartographie et étude du réseau et des services en place
-          - Rationalisation des services existants
-          - Mise en place de systèmes de sauvegarde automatique des configurations réseau (Cisco)
-          - Installation et configuration de nouveaux services (Active Directory, annuaire LDAP, sites web, FTP, ...)
-          - Conception d'une solution automatisée d'inventaire des postes de travail
+          - Cartographier le réseau et les services en place
+          - Rationaliser les services existants
+          - Mettre en place des systèmes de sauvegarde automatique
+          - Ajouter de nouveaux services (Active Directory, LDAP, sites web, partages de fichiers, …)
+          - Concevoir une solution d’inventaire automatique des 300 postes de travail
         environment: Perl, Java, Apache httpd, OpenLDAP, Samba, DNS, FTP, Mail, FreeBSD, Windows, Cisco
 
-      - designation: Personnalisation et déploiement d'une solution de travail collaborative
+      - designation: eGroupWare – Plateforme collaborative de gestion de projets
         start: Septembre 2006
         end: Décembre 2006
         responsibilities:
-          - Mise en place d'un intranet basé sur eGroupWare
-          - Développement de modules spécifiques à l'activité de la MSH
-          - Formation des chercheurs aux solutions de travail collaboratif
-          - Automatisation des tâches de gestion courante
+          - Installer et configurer la solution opensource eGroupWare
+          - Concevoir et développer des modules spécifiques après analyse des besoins
+          - Former les chercheurs à l’utilisation de l’outil

@@ -14,7 +14,7 @@ experiences:
       name: YZ Network
       url: "https://www.yz-network.com"
       location: Paris
-      overview: Blockchain architect & cypto-assets consultant
+      overview: Chief Technology Officer
     positions:
       - designation: Web3 advanced tokenization platform
         start: Nov 2021
@@ -62,7 +62,7 @@ experiences:
       name: Foodles
       url: "https://www.foodles.co"
       location: Clichy
-      overview: Web Architect & Python/AngularJS Fullstack developer & DevOps
+      overview: Software Architect & Python/AngularJS Fullstack developer & DevOps
     positions:
       - designation: Automated meals dispensers
         start: Sep 2016
@@ -73,25 +73,10 @@ experiences:
         environment: AWS, Docker, Python, Django, AngularJS, PostgreSQL, Apache HAProxy, Elasticsearch, Kibana
 
   - company:
-      name: Natixis / BPCE
-      url: "https://groupebpce.com"
-      location: Paris
-      overview: JEE API Architect
-    positions:
-      - designation: BIG - MVPs realization in a Digital Factory
-        start: Mar 2016
-        end: Jun 2016
-        responsibilities:
-          - Helped product owners to design the MVP on solutions choices.
-          - Designed and developed the solution as a Single Page Application.
-          - Collaborated with other MVP teams to develop common practices at the factory.
-        environment: JEE, JBoss, JAX-RS, EJB, JPA, Birt, JasperReports, Oracle, Maven, Atlassian (Jira, Confluence, Bitbucket), Jenkins, AngularJS, NodeJS
-
-  - company:
       name: IFP School
       url: "https://www.ifptraining.fr"
       location: Rueil Malmaison
-      overview: AngularJS/JEE Architect & Fullstack Developer
+      overview: Software Architect & Fullstack Developer
     positions:
       - designation: CAS - Decentralized skills assessment system
         start: Aug 2015
@@ -101,20 +86,6 @@ experiences:
           - Ensured compatibility with the old system through worksheets import/export as a fallback.
           - Automated build and deployments.
         environment: AngularJS, JEE, JAX-RS, Apache POI, Spring, JPA, Birt, MySQL, Tomcat, Maven, Docker, Git, Nginx
-
-  - company:
-      name: Gatewatcher
-      url: "https://www.gatewatcher.com/"
-      location: Paris
-      overview: HTML5 Developer & Devops
-    positions:
-      - designation: Advanced cyber threats detection system
-        start: Jan 2015
-        end: Aug 2015
-        responsibilities:
-          - Developed a real-time administrator interface for the appliances.
-          - Gave recommendations on the requirements to move from R&D to production while keeping the appliances safe with in-house package registries for debian and libraries updates, allowing the team to pick which updates to push or hold.
-        environment: Docker, Linux, MongoDB, Redis, Websockets, Perl, Git
 
   - company:
       name: French Central Bank
